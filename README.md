@@ -16,8 +16,7 @@ Serra - ES <p>
 
 ### Resultado
  
-  para teste: (https://upbeat-turing-5191c3.netlify.app)
  
- ![imagem](https://github.com/driica/Buscador-de-CEP/blob/master/resultado.jpg)
+ ![imagem](https://github.com/driica/Buscador-CEP/blob/master/resultado.jpg)
  
  
